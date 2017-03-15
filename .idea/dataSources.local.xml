@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails The Convo: development" uuid="a455d4dc-f4b5-486e-bdab-a8162d9e15a9">
+      <auth-required>false</auth-required>
+    </data-source>
+  </component>
+</project>
